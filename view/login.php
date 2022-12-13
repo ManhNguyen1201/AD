@@ -29,6 +29,7 @@ body{
 	background-color:#fef492;
 }
 
+
 </style>
 <body onLoad="login()">
 	<img src="../uploads/bg.jpg" class="bg" />
